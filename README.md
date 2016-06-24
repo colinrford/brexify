@@ -34,7 +34,7 @@ No!
 
 ## How does one obtain Brexify?
 
-You can find Brexify on the Chrome Web Store, [here]().
+You can find Brexify on the Chrome Web Store, [here](https://chrome.google.com/webstore/detail/emegjecocpgbadpphoeeodnkngdmjfhi).
 
 ## License
 
